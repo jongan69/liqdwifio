@@ -148,7 +148,9 @@ export default function Home() {
           <li className="mb-4">✔️ {SiteData.featuresPoint3}</li>
           <li className="mb-4">✔️ {SiteData.featuresPoint4}</li>
           <li className="mb-4">✔️ {SiteData.featuresPoint5}</li>
-          <li className="mb-4">✔️ {SiteData.featuresPoint6}e</li>
+          <li className="mb-4">✔️ {SiteData.featuresPoint6}</li>
+          <li className="mb-4">✔️ {SiteData.featuresPoint7}</li>
+          <li className="mb-4">✔️ {SiteData.featuresPoint8}</li>
         </ul>
       </div>
       <Footer opensourced={SiteData.footerMessage1} opensourcedlink={SiteData.footerMessage1Link} poweredby={SiteData.footerMessage2} poweredbylink={SiteData.footerMessage2Link} />
