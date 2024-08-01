@@ -13,35 +13,35 @@ export const SiteData = {
     raydiumButtonMessage: "Unliqudate yourself",
 
     //Dex
-    buttonOneTopic: "Unliqudate yourself",
+    buttonOneTopic: "Unliqudate yourself via Dexscreener",
     buttonOneMessage: "Unliqudate yourself",
     buttonOneLink: "https://dexscreener.com/solana/5bdhytsrtn2ggjt3a8xyqjs7ctjwzcxpgds7nt3wd9mb",
 
     //Bonk
-    buttonTwoTopic: "Unliqudate yourself",
+    buttonTwoTopic: "Unliqudate yourself via Bonk Bot",
     buttonTwoMessage: "Unliqudate yourself",
     buttonTwoLink: "https://t.me/bonkbot_bot?start=ref_jyzn2_ca_9UEzwh5TyS2LWFTcoHhbbsb1yMQtJWabECgYWQyopump",
 
     //SolSniffer
-    buttonThreeTopic: "Unliqudate yourself",
+    buttonThreeTopic: "Unliqudate yourself via SolSniffer",
     buttonThreeMessage: "Unliqudate yourself",
     buttonThreeLink: "https://solsniffer.com/scanner/9UEzwh5TyS2LWFTcoHhbbsb1yMQtJWabECgYWQyopump",
 
     //X
-    buttonFourTopic: "Unliqudate yourself",
+    buttonFourTopic: "Unliqudate yourself via X",
     buttonFourMessage: "Unliqudate yourself",
     buttonFourLink: "https://x.com/LIQDWIF_solana",
 
     //Features
-    featuresTitle: "Unliqudate yourself",
-    featuresPoint1: "Unliqudate yourself",
-    featuresPoint2: "Unliqudate yourself",
-    featuresPoint3: "Unliqudate yourself",
-    featuresPoint4: "Unliqudate yourself",
-    featuresPoint5: "Unliqudate yourself",
-    featuresPoint6: "Unliqudate yourself",
-    featuresPoint7: "Unliqudate yourself",
-    featuresPoint8: "Unliqudate yourself",
+    featuresTitle: "How to Guide",
+    featuresPoint1: "Buy",
+    featuresPoint2: "Hold",
+    featuresPoint3: "Dont sell",
+    featuresPoint4: "Blow up exchange",
+    featuresPoint5: "Memeitize the result",
+    featuresPoint6: "Wash Hands",
+    featuresPoint7: "Apply lotion",
+    featuresPoint8: "repeat",
   
 
     //Footer
