@@ -21,7 +21,7 @@ export default function Home() {
 
   const fetchTokenPrice = async (tokenAddress: string) => {
     const response = await fetch(`/api/quote`, { method: "POST", body: JSON.stringify({ "outputMint": tokenAddress }) });
-    const price = (await response.json())?.uiFormmatted;
+    const price = (await response.json())?.usdValue;
     return price;
   };
 
@@ -61,7 +61,7 @@ export default function Home() {
         />
         <div className="flex flex-col">
           <br />
-          <code className="font-mono font-bold">{SiteData.name} Price: {tokenPrice}</code>
+          <code className="font-mono font-bold">{SiteData.name} Price: ${tokenPrice}</code>
         </div>
       </div>
 
@@ -96,7 +96,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            {SiteData.buttonTwoMessage}&nbsp;art!
+            {SiteData.buttonTwoMessage}&nbsp;
           </p>
         </a>
 
