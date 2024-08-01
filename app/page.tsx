@@ -135,7 +135,7 @@ export default function Home() {
         </a>
       </div>
 
-      <div className="relative z-[-1] flex flex-col items-center mt-24">
+      <div className="relative z-0 flex flex-col items-center mt-24">
         <h2 className="mb-3 text-3xl font-semibold">
           {SiteData.featuresTitle}{" "}
           <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
