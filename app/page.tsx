@@ -7,7 +7,7 @@ import { Footer } from "./components/footer";
 import { SiteData } from '../config'
 
 // const nfttokenAddress = `GrRjEpwHbLE1KY3uxtAMU4ravHfbMGzWEL8HcERPb3Ad` // Prob using weird endpoint of api
-const coinMintAddres = SiteData.coinMintAddres
+const coinMintAddres = SiteData.coinMintAddress
 
 export default function Home() {
   const [floorPrice, setFloorPrice] = useState<any>();
