@@ -22,10 +22,10 @@ export const SiteData = {
     buttonTwoMessage: "Unliqudate yourself",
     buttonTwoLink: "https://t.me/bonkbot_bot?start=ref_jyzn2_ca_9UEzwh5TyS2LWFTcoHhbbsb1yMQtJWabECgYWQyopump",
 
-    //BullX
+    //SolSniffer
     buttonThreeTopic: "Unliqudate yourself",
     buttonThreeMessage: "Unliqudate yourself",
-    buttonThreeLink: "https://bullx.io/terminal?chainId=1399811149&address=9UEzwh5TyS2LWFTcoHhbbsb1yMQtJWabECgYWQyopump",
+    buttonThreeLink: "https://solsniffer.com/scanner/9UEzwh5TyS2LWFTcoHhbbsb1yMQtJWabECgYWQyopump",
 
     //X
     buttonFourTopic: "Unliqudate yourself",
